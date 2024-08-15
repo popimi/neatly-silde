@@ -54,19 +54,19 @@ const IntroductionMain = () => {
               </span>{" "}
               User
             </h3>
-            <h4 className="text-white cursor-pointer py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
+            <h4 className="text-white cursor-pointer font-sans font-[600] py-1 px-3 shadow-shadow bg-orange-600 rounded-md  duration-200 hover:scale-110">
               <span className="material-symbols-outlined ">search</span> Search
               & Filter
             </h4>
-            <h4 className="text-white cursor-pointer py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
+            <h4 className="text-white cursor-pointer font-sans font-[600] py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
               <span className="material-symbols-outlined">calendar_month</span>{" "}
               Booking
             </h4>
-            <h4 className="text-white cursor-pointer py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
+            <h4 className="text-white cursor-pointer font-sans font-[600] py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
               <span className="material-symbols-outlined">payments</span>{" "}
               Payment
             </h4>
-            <h4 className="text-white cursor-pointer py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
+            <h4 className="text-white cursor-pointer font-sans font-[600] py-1 px-3 shadow-shadow bg-orange-600 rounded-md hover:bg-orange-400 duration-200 hover:scale-110">
               <span className="material-symbols-outlined">cloud_upload</span>{" "}
               Uploading
             </h4>
@@ -76,6 +76,7 @@ const IntroductionMain = () => {
               <span className="material-symbols-outlined">manage_accounts</span>{" "}
               Admin
             </h3>
+
             <h4 className=" cursor-pointer py-1 px-3 bg-white shadow-shadow button-secondary rounded-md duration-200 hover:scale-110">
               <span className="material-symbols-outlined ">search</span> Search
               & Filter
